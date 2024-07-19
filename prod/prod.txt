@@ -8,6 +8,10 @@
         margin: 0;
     }
 
+    .BCS712XXL h3 {
+        margin-top: 0;
+    }
+
     .BCS712XXL p {
         padding: 0;
         margin: 0;
@@ -41,6 +45,7 @@
 
     .BCS712XXL div {
         padding: 0;
+        width: initial;
     }
 
     div.BCS712XXL {
@@ -101,6 +106,7 @@
         font-size: 22px;
         font-weight: 500;
         line-height: 28.6px;
+        margin-top: 0;
         margin-bottom: 8px;
     }
 
@@ -110,8 +116,8 @@
         line-height: 21px;
     }
 
-    .BCS712XXL .divider-section {
-        width: 100%;
+    .BCS712XXL .divider-hero-section {
+        line-height: 1px;
     }
 
     .BCS712XXL .text-align-center {
@@ -1533,7 +1539,7 @@
     </div>
     <section class="bosch-footer-section container"><img alt="bosch" class="bosch-logo-footer"
             src="https://i.citrus.world/uploads/shares/2024/March/bagato-igor-ne-buvaye/img-section-10.webp" />
-        <h3 class="bosch-footer-title">Bosch&nbsp; ̶ німецькі стандарти якості
+        <h3 class="bosch-footer-title">Bosch - німецькі стандарти якості
         </h3>
         <p class="description bosch-footer-description">Прилади Bosch розроблені професійними німецькими інженерами, які
             відомі завдяки своїй надзвичайній увазі до деталей. Пристрої вироблені та протестовані на сучасних заводах,

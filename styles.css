@@ -1,0 +1,1073 @@
+.product__description.base-padding {
+  padding: 0;
+  border-radius: 0px;
+}
+.BCS712XXL h3 {
+  margin: 0;
+  padding: 0;
+}
+.BCS712XXL img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+.BCS712XXL p {
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+.BCS712XXL ul {
+  margin: 0;
+  padding: 0;
+}
+.BCS712XXL li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.BCS712XXL {
+  max-width: 360px;
+  background-color: #ffffff;
+  color: #020202;
+  font-family: "Roboto", sans-serif;
+  margin: 0 auto;
+}
+.BCS712XXL .container {
+  margin: 0 auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.BCS712XXL .hero-section {
+  display: flex;
+  flex-direction: column;
+  padding-top: 32px;
+}
+.BCS712XXL .logo-hero-section {
+  width: 89px;
+  margin-bottom: 16px;
+}
+.BCS712XXL .main-title-paragraph {
+  max-width: 288px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: left;
+  margin-bottom: 8px;
+}
+.BCS712XXL .main-title-description {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: left;
+  color: #666666;
+}
+.BCS712XXL .title {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 28.6px;
+  margin-bottom: 8px;
+}
+.BCS712XXL .description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+}
+.BCS712XXL .divider-section {
+  width: 100%;
+}
+.BCS712XXL .text-align-center {
+  text-align: center;
+}
+.BCS712XXL .description-span {
+  font-weight: 500;
+}
+.BCS712XXL .mb {
+  margin-bottom: 32px;
+}
+.BCS712XXL .transparent {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+.BCS712XXL .second-title {
+  color: #666666;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15.6px;
+  width: 320px;
+}
+.BCS712XXL .hero-image {
+  max-width: 328px;
+}
+.BCS712XXL .power-section {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.BCS712XXL .header-block-power-section {
+  width: 320px;
+  margin-top: 32px;
+}
+.BCS712XXL .footer-list-battery-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.BCS712XXL .footer-list-power-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.BCS712XXL .battery-section {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 32px 0 32px 0;
+}
+.BCS712XXL .header-block-battery-section {
+  gap: 8px;
+}
+.BCS712XXL .operating-modes-section {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 24px;
+  text-align: left;
+}
+.BCS712XXL .operating-modes-description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.BCS712XXL .operation-description-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.BCS712XXL .operation-description-item {
+  text-align: left;
+}
+.BCS712XXL .possibility-section {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.BCS712XXL .possibility-section-list {
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-align: center;
+}
+.BCS712XXL .possibility-image {
+  margin-bottom: 32px;
+}
+.BCS712XXL .brush-section {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  background-color: #fafafa;
+}
+.BCS712XXL .brush-image {
+  background-image: url("https://i.citrus.world/uploads/shares/2024/March/bagato-igor-ne-buvaye/img-section-6.webp");
+  min-width: 320px;
+  height: 184px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+.BCS712XXL .brush-image-2 {
+  position: absolute;
+  top: 84%;
+  right: 25%;
+  display: flex;
+  flex-direction: row;
+  gap: 17.69px;
+}
+.BCS712XXL .brush-image-description-left {
+  background-color: transparent;
+  font-size: 8.88px;
+  font-weight: 600;
+  line-height: 13.32px;
+  text-align: right;
+  white-space: nowrap;
+  color: #ffffff;
+}
+.BCS712XXL .brush-image-description-right {
+  background-color: transparent;
+  font-size: 8.88px;
+  font-weight: 600;
+  line-height: 13.32px;
+  text-align: left;
+  white-space: nowrap;
+}
+.BCS712XXL .dust-section {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin: 0 0 32px 0;
+}
+.BCS712XXL .dust-description-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.BCS712XXL .dust-description {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.BCS712XXL .nozzles-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  background-color: #fafafa;
+}
+.BCS712XXL .nozzles-description-container {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+.BCS712XXL .nozzles-width {
+  width: 150px;
+}
+.BCS712XXL .nozzles-image-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.BCS712XXL .nozzles-image {
+  width: 150px;
+}
+.BCS712XXL .motor-section {
+  display: flex;
+  flex-direction: column;
+  background: #e7f3ff;
+  padding: 32px 0 0 16px;
+  gap: 24px;
+}
+.BCS712XXL .motor-description-container {
+  display: flex;
+  flex-direction: column;
+  width: 330px;
+  gap: 16px;
+}
+.BCS712XXL .motor-image {
+  width: 344px;
+}
+.BCS712XXL .bosch-footer-section {
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 64px;
+}
+.BCS712XXL .bosch-logo-footer {
+  width: 288px;
+  margin-bottom: 20px;
+}
+.BCS712XXL .bosch-footer-title {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.BCS712XXL .bosch-footer-description {
+  width: 320px;
+  text-align: center;
+}
+.BCS712XXL .accessories-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.BCS712XXL .accessories-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+.BCS712XXL .accessories-image {
+  width: 146px;
+}
+.BCS712XXL .accessories-width {
+  width: 146px;
+}
+@media only screen and (min-width: 768px) {
+  .BCS712XXL .container {
+    margin: 0 auto;
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .BCS712XXL {
+    max-width: 720px;
+  }
+  .BCS712XXL .transparent {
+    width: 100%;
+    height: 100%;
+    color: inherit;
+  }
+  .BCS712XXL .hero-section {
+    display: flex;
+    flex-direction: row;
+    padding-top: 0;
+    gap: 32px;
+  }
+  .BCS712XXL .left-side-hero-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+  }
+  .BCS712XXL .right-side-hero-section {
+    width: 316.52px;
+  }
+  .BCS712XXL .logo-hero-section {
+    width: 89px;
+    margin-bottom: 118px;
+  }
+  .BCS712XXL .main-title-hero-section {
+    margin-bottom: 122px;
+  }
+  .BCS712XXL .main-title-paragraph {
+    max-width: 308px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 8px;
+  }
+  .BCS712XXL .main-title-description {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: left;
+    color: #666666;
+  }
+  .BCS712XXL .title {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+  }
+  .BCS712XXL .description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+  }
+  .BCS712XXL .divider-section {
+    width: 100%;
+  }
+  .BCS712XXL .text-align-center {
+    text-align: center;
+  }
+  .BCS712XXL .second-title-transparent {
+    color: #666666;
+  }
+  .BCS712XXL .description-span {
+    font-weight: 500;
+  }
+  .BCS712XXL .mb {
+    margin-bottom: 32px;
+  }
+  .BCS712XXL .second-title {
+    color: #666666;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15.6px;
+    width: 328px;
+  }
+  .BCS712XXL .hero-image {
+    max-width: 316.52px;
+  }
+  .BCS712XXL .power-section {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin: 32px 0;
+  }
+  .BCS712XXL .header-block-power-section {
+    width: 586px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .BCS712XXL .footer-block-power-section {
+    text-align: center;
+  }
+  .BCS712XXL .footer-list-battery-section {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .BCS712XXL .footer-list-power-section {
+    display: flex;
+    flex-direction: row;
+    width: 656px;
+    gap: 24px;
+  }
+  .BCS712XXL .footer-power-item {
+    width: 202.67px;
+  }
+  .BCS712XXL .footer-power-second-title {
+    width: 544px;
+    margin: 0 auto;
+  }
+  .BCS712XXL .battery-section {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin: 32px 0 32px 0;
+    align-items: center;
+  }
+  .BCS712XXL .footer-list-battery-section {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+  }
+  .BCS712XXL .footer-item-battery-section {
+    width: 316px;
+  }
+  .BCS712XXL .header-block-battery-section {
+    gap: 8px;
+  }
+  .BCS712XXL .operating-modes-section {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: center;
+    text-align: left;
+  }
+  .BCS712XXL .left-side-operating-modes-section {
+    max-width: 316px;
+  }
+  .BCS712XXL .operating-modes-description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .BCS712XXL .operation-description-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .BCS712XXL .operation-description-item {
+    text-align: left;
+  }
+  .BCS712XXL .possibility-section {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .BCS712XXL .possibility-section-list {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    text-align: center;
+  }
+  .BCS712XXL .possibility-section-item {
+    width: 202.67px;
+  }
+  .BCS712XXL .possibility-image {
+    margin-bottom: 32px;
+  }
+  .BCS712XXL .brush-section {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: center;
+  }
+  .BCS712XXL .brush-image {
+    background-image: url("https://i.citrus.world/uploads/shares/2024/March/bagato-igor-ne-buvaye/img-section-6.webp");
+    width: 656px;
+    height: 370px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+  }
+  .BCS712XXL .brush-image-2 {
+    position: absolute;
+    top: 84%;
+    right: 25%;
+    display: flex;
+    flex-direction: row;
+    gap: 35.37px;
+  }
+  .BCS712XXL .brush-image-description-left {
+    background-color: transparent;
+    font-size: 17.78px;
+    font-weight: 600;
+    line-height: 26.67px;
+    text-align: right;
+    white-space: nowrap;
+    color: #ffffff;
+  }
+  .BCS712XXL .brush-image-description-right {
+    background-color: transparent;
+    font-size: 17.78px;
+    font-weight: 600;
+    line-height: 26.67px;
+    text-align: left;
+    white-space: nowrap;
+  }
+  .BCS712XXL .dust-section {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin: 32px 0 32px 0;
+    text-align: center;
+  }
+  .BCS712XXL .dust-description-container {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+  }
+  .BCS712XXL .dust-description {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .BCS712XXL .nozzles-section {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+  .BCS712XXL .nozzles-description-container {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+  }
+  .BCS712XXL .nozzles-width {
+    width: 316px;
+  }
+  .BCS712XXL .nozzles-image-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  .BCS712XXL .nozzles-image {
+    width: 316px;
+  }
+  .BCS712XXL .motor-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: linear-gradient(
+      180deg,
+      #ebf5fe 0%,
+      #effafe 58.86%,
+      #ecf4ff 100%
+    );
+    padding-top: 0px;
+    gap: 24px;
+  }
+  .BCS712XXL .motor-description-container {
+    display: flex;
+    flex-direction: column;
+    width: 308px;
+    gap: 16px;
+  }
+  .BCS712XXL .motor-image {
+    min-width: 356px;
+  }
+  .BCS712XXL .bosch-footer-section {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 64px;
+  }
+  .BCS712XXL .bosch-logo-footer {
+    width: 354px;
+    margin-bottom: 20px;
+  }
+  .BCS712XXL .bosch-footer-title {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .BCS712XXL .bosch-footer-description {
+    text-align: center;
+    width: 542px;
+  }
+  .BCS712XXL .accessories-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+  .BCS712XXL .accessories-list {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    margin-bottom: 32px;
+  }
+  .BCS712XXL .accessories-image {
+    width: 146px;
+  }
+  .BCS712XXL .accessories-width {
+    width: 146px;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .BCS712XXL .container {
+    margin: 0 auto;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .BCS712XXL {
+    max-width: 970px;
+  }
+  .BCS712XXL .left-side-hero-section {
+    margin-top: 40px;
+  }
+  .BCS712XXL .logo-hero-section {
+    width: 129px;
+    margin-bottom: 163.5px;
+  }
+  .BCS712XXL .main-title-hero-section {
+    margin-bottom: 174.5px;
+  }
+  .BCS712XXL .main-title-paragraph {
+    max-width: 420px;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 36.4px;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  .BCS712XXL .main-title-description {
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 36.4px;
+    text-align: left;
+  }
+  .BCS712XXL .right-side-hero-section {
+    width: 436.71px;
+  }
+  .BCS712XXL .title {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    margin-bottom: 12px;
+  }
+  .BCS712XXL .description {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+  }
+  .BCS712XXL .divider-section {
+    width: 100%;
+  }
+  .BCS712XXL .text-align-center {
+    text-align: center;
+  }
+  .BCS712XXL .second-title-transparent {
+    color: #666666;
+  }
+  .BCS712XXL .description-span {
+    font-weight: 500;
+  }
+  .BCS712XXL .mb {
+    margin-bottom: 0px;
+  }
+  .BCS712XXL .second-title {
+    color: #666666;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.2px;
+  }
+  .BCS712XXL .power-section {
+    gap: 40px;
+    margin: 42px 0;
+  }
+  .BCS712XXL .header-block-power-section {
+    width: 800px;
+  }
+  .BCS712XXL .footer-block-power-section {
+    text-align: center;
+  }
+  .BCS712XXL .footer-list-battery-section {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .BCS712XXL .footer-list-power-section {
+    width: 896px;
+    gap: 24px;
+  }
+  .BCS712XXL .footer-power-item {
+    width: 282.67px;
+  }
+  .BCS712XXL .footer-power-second-title {
+    width: 636px;
+  }
+  .BCS712XXL .battery-section {
+    gap: 40px;
+    margin: 42px 0 42px 0;
+  }
+  .BCS712XXL .footer-list-battery-section {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+  }
+  .BCS712XXL .footer-item-battery-section {
+    width: 436px;
+  }
+  .BCS712XXL .header-block-battery-section {
+    width: 896px;
+    gap: 0px;
+  }
+  .BCS712XXL .operating-modes-section {
+    padding-top: 42px;
+    padding-bottom: 42px;
+  }
+  .BCS712XXL .left-side-operating-modes-section {
+    max-width: 436px;
+  }
+  .BCS712XXL .operation-description-list {
+    gap: 12px;
+  }
+  .BCS712XXL .possibility-section {
+    gap: 40px;
+  }
+  .BCS712XXL .possibility-section-list {
+    margin-top: 42px;
+    gap: 24px;
+  }
+  .BCS712XXL .possibility-section-item {
+    width: 282.67px;
+  }
+  .BCS712XXL .possibility-image {
+    margin-bottom: 42px;
+  }
+  .BCS712XXL .brush-section {
+    gap: 40px;
+    padding-top: 42px;
+    padding-bottom: 42px;
+  }
+  .BCS712XXL .brush-image {
+    min-width: 890px;
+    height: 505px;
+  }
+  .BCS712XXL .brush-image-2 {
+    top: 84%;
+    right: 24%;
+    gap: 48.49px;
+  }
+  .BCS712XXL .brush-image-description-left {
+    font-size: 24.29px;
+    line-height: 36.44px;
+  }
+  .BCS712XXL .brush-image-description-right {
+    font-size: 24.29px;
+    line-height: 36.44px;
+  }
+  .BCS712XXL .dust-section {
+    gap: 40px;
+    margin: 42px 0 42px 0;
+  }
+  .BCS712XXL .dust-description-container {
+    gap: 24px;
+  }
+  .BCS712XXL .dust-description {
+    width: 436px;
+    gap: 16px;
+    align-items: center;
+  }
+  .BCS712XXL .nozzles-section {
+    gap: 40px;
+    padding-top: 42px;
+    padding-bottom: 42px;
+  }
+  .BCS712XXL .nozzles-description-container {
+    gap: 24px;
+  }
+  .BCS712XXL .nozzles-width {
+    width: 436px;
+  }
+  .BCS712XXL .nozzles-image-container {
+    width: 896px;
+    gap: 24px;
+  }
+  .BCS712XXL .nozzles-image {
+    min-width: 433px;
+  }
+  .BCS712XXL .motor-section {
+    gap: 24px;
+    padding-right: 0;
+  }
+  .BCS712XXL .motor-description-container {
+    width: 436px;
+    gap: 24px;
+  }
+  .BCS712XXL .motor-image {
+    min-width: 470px;
+  }
+  .BCS712XXL .bosch-footer-section {
+    margin-top: 42px;
+    margin-bottom: 84px;
+  }
+  .BCS712XXL .bosch-logo-footer {
+    width: 484px;
+    margin-bottom: 24px;
+  }
+  .BCS712XXL .bosch-footer-title {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: center;
+    margin-bottom: 14px;
+  }
+  .BCS712XXL .bosch-footer-description {
+    width: 590px;
+  }
+  .BCS712XXL .accessories-section {
+    gap: 40px;
+  }
+  .BCS712XXL .accessories-list {
+    margin-bottom: 42px;
+  }
+  .BCS712XXL .accessories-image {
+    width: 204px;
+  }
+  .BCS712XXL .accessories-width {
+    width: 204px;
+  }
+}
+@media only screen and (min-width: 1366px) {
+  .BCS712XXL .container {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  .BCS712XXL {
+    max-width: 1366px;
+  }
+  .BCS712XXL .hero-section {
+    justify-content: space-around;
+    gap: 60px;
+  }
+  .BCS712XXL .left-side-hero-section {
+    margin-top: 60px;
+  }
+  .BCS712XXL .logo-hero-section {
+    width: 188px;
+    margin-bottom: 226.5px;
+  }
+  .BCS712XXL .main-title-hero-section {
+    margin-bottom: 249.5px;
+  }
+  .BCS712XXL .main-title-paragraph {
+    max-width: 575px;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 49.4px;
+    text-align: left;
+    margin-bottom: 14px;
+  }
+  .BCS712XXL .main-title-description {
+    font-size: 38px;
+    font-weight: 500;
+    line-height: 49.4px;
+    text-align: left;
+  }
+  .BCS712XXL .right-side-hero-section {
+    width: 611px;
+  }
+  .BCS712XXL .title {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 54px;
+    margin-bottom: 16px;
+  }
+  .BCS712XXL .description {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+  }
+  .BCS712XXL .divider-section {
+    width: 100%;
+  }
+  .BCS712XXL .text-align-center {
+    text-align: center;
+  }
+  .BCS712XXL .second-title-transparent {
+    line-height: 18.2px;
+    color: #666666;
+  }
+  .BCS712XXL .description-span {
+    font-weight: 500;
+  }
+  .BCS712XXL .mb {
+    margin-bottom: 0px;
+  }
+  .BCS712XXL .power-section {
+    gap: 40px;
+    margin: 60px 0;
+  }
+  .BCS712XXL .footer-list-power-section {
+    width: 1246px;
+    gap: 24px;
+  }
+  .BCS712XXL .footer-power-item {
+    width: 399.33px;
+  }
+  .BCS712XXL .footer-power-second-title {
+    width: 887px;
+    white-space: nowrap;
+  }
+  .BCS712XXL .battery-section {
+    gap: 40px;
+    margin: 60px 0 60px 0;
+  }
+  .BCS712XXL .footer-list-battery-section {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+  }
+  .BCS712XXL .footer-item-battery-section {
+    width: 611px;
+  }
+  .BCS712XXL .header-block-battery-section {
+    max-width: 800px;
+    gap: 0px;
+  }
+  .BCS712XXL .operating-modes-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .BCS712XXL .left-side-operating-modes-section {
+    max-width: 611px;
+  }
+  .BCS712XXL .operation-description-list {
+    width: 611px;
+    gap: 16px;
+  }
+  .BCS712XXL .possibility-section {
+    gap: 40px;
+  }
+  .BCS712XXL .possibility-section-list {
+    margin-top: 60px;
+    gap: 24px;
+  }
+  .BCS712XXL .possibility-section-item {
+    width: 399.33px;
+  }
+  .BCS712XXL .possibility-image {
+    margin-bottom: 60px;
+  }
+  .BCS712XXL .brush-section {
+    gap: 40px;
+    padding-bottom: 60px;
+    padding-top: 60px;
+  }
+  .BCS712XXL .brush-title-description {
+    width: 800px;
+  }
+  .BCS712XXL .brush-image {
+    width: 1246px;
+    height: 703px;
+  }
+  .BCS712XXL .brush-image-2 {
+    top: 84%;
+    right: 29%;
+    gap: 48.49px;
+  }
+  .BCS712XXL .brush-image-description-left {
+    font-size: 28px;
+    line-height: 42px;
+  }
+  .BCS712XXL .brush-image-description-right {
+    font-size: 28px;
+    line-height: 42px;
+  }
+  .BCS712XXL .dust-section {
+    gap: 40px;
+    margin: 60px 0 60px 0;
+  }
+  .BCS712XXL .dust-description-container {
+    gap: 24px;
+  }
+  .BCS712XXL .dust-description {
+    width: 611px;
+    gap: 16px;
+    align-items: center;
+  }
+  .BCS712XXL .nozzles-section {
+    gap: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .BCS712XXL .nozzles-description-container {
+    gap: 24px;
+  }
+  .BCS712XXL .nozzles-width {
+    width: 611px;
+  }
+  .BCS712XXL .nozzles-image-container {
+    width: 1246px;
+    gap: 24px;
+  }
+  .BCS712XXL .nozzles-image {
+    width: 611px;
+  }
+  .BCS712XXL .motor-section {
+    gap: 24px;
+    padding-right: 0px;
+  }
+  .BCS712XXL .motor-description-container {
+    width: 600px;
+    gap: 24px;
+  }
+  .BCS712XXL .motor-image {
+    width: 682px;
+  }
+  .BCS712XXL .bosch-footer-section {
+    margin-top: 60px;
+    margin-bottom: 120px;
+  }
+  .BCS712XXL .bosch-logo-footer {
+    width: 676.5px;
+    margin-bottom: 40px;
+  }
+  .BCS712XXL .bosch-footer-title {
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 42px;
+    text-align: center;
+  }
+  .BCS712XXL .bosch-footer-description {
+    width: 762px;
+  }
+  .BCS712XXL .accessories-section {
+    gap: 40px;
+  }
+  .BCS712XXL .accessories-list {
+    margin-bottom: 60px;
+  }
+  .BCS712XXL .accessories-image {
+    width: 280px;
+  }
+  .BCS712XXL .accessories-width {
+    width: 260px;
+  }
+}
